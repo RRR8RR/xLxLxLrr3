@@ -1,7 +1,7 @@
 {
-    "name": "spark ダ 𝗔َِ𝗹َِ𝘀َِ𝗵",
-    "description": "سورس رنثون",
-    "logo": "https://graph.org/file/2577f47589c4b4c63e4a6.jpg",
+    "name": "𝗦𝗢𝗨𝗥𝗖𝗘 𝗥𝗨𝗡𝗧𝗛𝗢𝗡",
+    "description": "سورس رنثون ",
+    "logo": "https://graph.org/file/4edb726cd168c2f4e1654.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -39,7 +39,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "اسم بوتك تكدر تخليه مزخرف",
-        "value": "Mina ダ 𝗔َِ𝗹َِ𝘀َِ𝗵",
+        "value": "رنثون",
         "required": true
       },
       "OWNER_ID": {
